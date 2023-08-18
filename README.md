@@ -1,6 +1,7 @@
 # CG_CircleAnnulus-Helix
 Create a circle annulus and add a helix across the z-axis
 
+<br>
 ## Screenshot of Running Results
 <b>1) Interaction's Instruction Window </b>
 ![image](https://github.com/xinying100/CG_CircleAnnulus-Helix/assets/123957735/5237a242-8e58-4cc6-99bb-26db4b58c37f)
