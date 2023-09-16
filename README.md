@@ -4,7 +4,8 @@ Create a circle annulus and add a helix across the z-axis
 <br>
 ## Screenshot of Running Results
 <b>1) Interaction's Instruction Window </b>
-![image](https://github.com/xinying100/CG_CircleAnnulus-Helix/assets/123957735/5237a242-8e58-4cc6-99bb-26db4b58c37f)
+![image](https://github.com/xinying100/CG_CircleAnnulus-Helix-Y3S1/assets/123957735/5fa80894-c4cf-4d1c-b04b-837bee682efd)
+
 ![image](https://github.com/xinying100/CG_CircleAnnulus-Helix/assets/123957735/fe2b5ca9-5760-4c3f-bc0b-3833fd27b795)
 Note: Necessary interaction instructions were shown to the user so that users were able to know what to do. Whenever there is any key input by the user the respective action description will show in the terminal interaction window. (ex, increasing/decreasing the greyness to become whiter/blacker)<br>
 <br>
